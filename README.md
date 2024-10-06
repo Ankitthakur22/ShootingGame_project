@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [Here](https://meabhisingh.github.io/canvasGame/)
+**Play** Click [Here](https://github.com/Ankitthakur22/ShootingGame_project.git)
 
 
 
